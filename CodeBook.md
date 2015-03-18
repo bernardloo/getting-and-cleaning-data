@@ -22,3 +22,9 @@
 * changes the data activity row to use the activity labels
 * saves the mean and std into mean_and_std.csv
 * saves the tidy dataset into tidy_dataset.csv
+
+
+###mean_and_stdDV.csv
+
+The **mean_and_stdDV.csv** will be saved in the results folder when **run_analysis.R** file is executed.
+This is task no 2 for this course project, which is to Extract  only the measurements on the mean and standard deviation for each measurement.  
