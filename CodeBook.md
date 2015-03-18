@@ -14,10 +14,10 @@
 * X_test contains the data using the feature data set as columns
 * y_test contains the activity labels
 * subject_test contains the ids
-
+* 
 * appends train and test data
 * rearrange the data using id
-
+* 
 * loads activity_labels.txt
 * changes the data activity row to use the activity labels
 * saves the mean and std into mean_and_std.csv
