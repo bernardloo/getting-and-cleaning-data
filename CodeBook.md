@@ -1,6 +1,6 @@
 ###run_analysis.R
 
-    downloads required data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+*downloads required data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
     unzips the file if it has not been uncompressed
     creates results folder if it does not exist (all files are stored in this folder)
     loads features.txt used for columns
