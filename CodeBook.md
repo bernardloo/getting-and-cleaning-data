@@ -27,4 +27,14 @@
 ###mean_and_stdDV.csv
 
 The **mean_n_stdDV.csv** will be saved in the results folder when **run_analysis.R** file is executed.
+
 This is task no 2 for this course project, which is to Extract  only the measurements on the mean and standard deviation for each measurement.  
+
+
+###tidy_dataset.csv
+
+The **tidy_dataset.csv** will be saved in the results folder when **run_analysis.R** file is executed.
+
+This is task no 5 for this course project, which is to creates an independent tidy data set with the average of each variable for each activity and each subject.
+
+
