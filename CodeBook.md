@@ -4,12 +4,12 @@
 * unzips the file if it has not been uncompressed
 * creates results folder if it does not exist (all files are stored in this folder)
 * loads features.txt used for columns
-
+* 
 * loads X_train.txt, y_train.txt, subject_train.txt
 * X_train contains the data using the feature data set as columns
 * y_train contains the activity labels
 * subject_train contains the ids
-
+* 
 * loads and appends test dataset using X_test.txt, y_test.txt, subject_test.txt
 * X_test contains the data using the feature data set as columns
 * y_test contains the activity labels
